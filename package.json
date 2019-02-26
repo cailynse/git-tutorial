@@ -1,0 +1,12 @@
+{
+  "name": "demo_code",
+  "version": "1.0.0",
+  "description": "2406 Assignment 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
